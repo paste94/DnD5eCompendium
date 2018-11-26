@@ -1,0 +1,17 @@
+{
+  "name": "dnd5ereference",
+  "version": "0.0.1",
+  "description": "Complete DnD 5e reference",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Paste94",
+  "license": "ISC",
+  "devDependencies": {
+    "curl": "^0.1.4",
+    "electron": "^3.0.7",
+    "jquery": "^3.3.1",
+    "jsdom": "^13.0.0"
+  }
+}
